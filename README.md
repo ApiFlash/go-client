@@ -7,15 +7,15 @@ Get in touch with us at [contact@apiflash.com](mailto:contact@apiflash.com) if y
 ## Installation
 
 ```
-npm install apiflash --save
+go install github.com/apiflash/go-client
 ```
 
 Then signup at [apiflash.com](https://apiflash.com) to get your API key.
 
 ## Example
 
-```js
-// Node.js client not implemented yet.
+```go
+// Go client not implemented yet.
 ```
 
 ## Parameters
