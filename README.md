@@ -1,4 +1,4 @@
-# ApiFlash Javascript Client
+# ApiFlash Go Client
 
 This is a placeholder for a future Go [screenshot API](https://apiflash.com) client.
 Get in touch with us at [contact@apiflash.com](mailto:contact@apiflash.com) if you need this client.
